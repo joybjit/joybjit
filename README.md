@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joy Bhuiya</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
+![image](https://github.com/joybjit/joybjit/assets/141292208/3827e6e3-df2c-49d0-9074-00d67dde2ffb)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joybjit&label=Profile%20views&color=0e75b6&style=flat" alt="joybjit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joybjit" alt="joybjit" /></a> </p>
